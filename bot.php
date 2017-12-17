@@ -104,7 +104,7 @@ if($message['type']=='text') {
 							'messages' => array(
 								array(
 										'type' => 'text',									
-										'text' => 'Terimakasih stikernya...'										
+										'text' => 'Makasih Kak Stikernya ^_^'										
 									
 									)
 							)
